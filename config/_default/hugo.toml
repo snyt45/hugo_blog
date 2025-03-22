@@ -3,3 +3,5 @@ languageCode = 'ja'
 title = 'Small Changes'
 copyright = 'snyt45'
 googleAnalytics = "G-FFNLJVXS4C"
+DefaultContentLanguage = 'ja'
+hasCJKLanguage = true
