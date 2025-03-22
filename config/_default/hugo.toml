@@ -5,3 +5,6 @@ copyright = 'snyt45'
 googleAnalytics = "G-FFNLJVXS4C"
 DefaultContentLanguage = 'ja'
 hasCJKLanguage = true
+
+[pagination]
+pagerSize = 5
