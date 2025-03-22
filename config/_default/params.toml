@@ -1,0 +1,9 @@
+[sidebar]
+emoji = "🍣"
+subtitle = "少しずつ成長して自分から見える世界をワクワクできる世界に"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = 'img/avatar.jpg'
+

@@ -1,0 +1,15 @@
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/snyt45"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://x.com/snyt45"
+
+[social.params]
+icon = "brand-twitter"
