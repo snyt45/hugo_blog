@@ -15,4 +15,10 @@ hugo server --bind 0.0.0.0 -D
 
 # 記事生成
 hugo new content post/{slug}/index.md
+
+# テーマ更新
+hugo mod get -u
+
+# 不要な依存関係の削除
+hugo mod tidy
 ```
