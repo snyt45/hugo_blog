@@ -7,3 +7,6 @@ enabled = true
 local = true
 src = 'img/avatar.jpg'
 
+## Widgets
+[[widgets.page]]
+type = "toc"
