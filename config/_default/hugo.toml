@@ -8,3 +8,6 @@ hasCJKLanguage = true
 
 [pagination]
 pagerSize = 5
+
+[permalinks]
+post = "/post/:year/:slug/"
