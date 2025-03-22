@@ -22,3 +22,7 @@ hugo mod get -u
 # 不要な依存関係の削除
 hugo mod tidy
 ```
+
+## 参考
+- Stackテーマを使用
+  - https://zenn.dev/seita1996/articles/hugo-markdown-blog
