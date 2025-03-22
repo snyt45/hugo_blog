@@ -1,5 +1,8 @@
 baseURL = 'https://snyt45.com/'
 languageCode = 'ja'
 title = 'Small Changes'
-theme = 'hugo-theme-stack'
 copyright = 'snyt45'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/CaiJimmy/hugo-theme-stack/v3'
