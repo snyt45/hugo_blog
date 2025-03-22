@@ -1,4 +1,9 @@
 # hugo_blog
+## 前提
+
+- go コマンド
+- Hugo のextended バージョン
+
 ## 使用法
 
 ```bash
