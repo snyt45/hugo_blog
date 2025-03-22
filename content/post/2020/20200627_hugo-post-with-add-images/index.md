@@ -6,7 +6,7 @@ date: 2020-06-27T14:52:11+0000
 lastmod: 2020-06-27T14:52:11+0000
 image:
 math:
-draft: true
+draft: false
 ---
 
 Hugo には画像を管理する方法が 2 種類あるようです。
