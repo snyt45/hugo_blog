@@ -27,6 +27,13 @@ hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
 hugo mod tidy
 ```
 
+## ショートコード
+
+```bash
+{{< x user="<user>" id="<id>" >}}
+{{< youtube MrZolfGm8Zk >}}
+```
+
 ## 参考
 
 - Stack テーマを使用
