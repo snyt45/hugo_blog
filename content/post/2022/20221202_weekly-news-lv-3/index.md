@@ -93,7 +93,7 @@ canvas の getting start やってみました
 - Go で canvas を扱うためのライブラリです。
   - https://github.com/tdewolff/canvas/wiki/Getting-Started
 - 簡単に次のような画像が作れました。これを応用して図作成ツールなど作ってみたいです。
-  - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmy_blog%2F06omHWz729.png?alt=media&token=c346dd37-725d-40be-9999-f089e1eb3ea7)
+  - ![canvas](image1.png)
 
 Rspec のテストで特定の callback だけ無視したい
 
@@ -106,5 +106,5 @@ Rspec のテストで特定の callback だけ無視したい
 ChatGPT は天才です。
 
 - 動画に図を書き込む機能とかをどう作ればいいんだろうと思ったときに 1 日くらい使って調べてみてもそのときはわからずじまいだったのですが、試しに ChatGPT に聞いたら一発でした。
-  - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmy_blog%2Fe-tdqYhFWN.png?alt=media&token=00549579-a66e-4f5a-bfcc-3963ac4bfdb7)
+  - ![ChatGpt](image2.png)
 - 今まで勉強したい、作りたいと思ったときに何をすればいいか調べて悩む時間がかなり削減されそうですね
