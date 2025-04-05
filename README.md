@@ -17,7 +17,7 @@ hugo server --bind 0.0.0.0 -D
 
 ```bash
 # 例: content/post/2025/20250322_test-post/index.md が作成される
-scripts/create_post.sh test-post
+scripts/create_post.sh test-post 20250322
 ```
 
 ## Stack テーマ更新
